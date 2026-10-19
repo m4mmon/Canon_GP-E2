@@ -1,7 +1,5 @@
 # Canon GP-E2 — description du protocole USB
 
-Oct 19, 2026 · @raph
-
 Le GP-E2 parle PTP sur USB, avec des opérations Canon spécifiques : 0x91A0–0x91AA face à un PC, 0x91D5–0x91DE face à un appareil photo. Ce document décrit les deux usages ; le côté appareil photo a été vérifié avec un EOS 700D (firmware 1.1.5), les autres boîtiers restent à tester.
 
 ## Identification USB
