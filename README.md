@@ -1,13 +1,10 @@
-it is work in progress
+This is work in progress...
 
 I have a running implementation on a pi zero that pushes "static" GPS coordinates. Works great, can set time, pictures contain proper GPS data.
 
-I hope I'll be able to do something out of that, and hope that someone will build on that and do something awesome.
+![Texte alternatif](test_success.jpg)
 
-
-
-
-
+I hope that someone will build on that and do something awesome.
 
 
 # Canon GP-E2 — USB protocol description
