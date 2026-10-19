@@ -1,3 +1,15 @@
+it is work in progress
+
+I have a running implementation on a pi zero that pushes "static" GPS coordinates. Works great, can set time, pictures contain proper GPS data.
+
+I hope I'll be able to do something out of that, and hope that someone will build on that and do something awesome.
+
+
+
+
+
+
+
 # Canon GP-E2 — USB protocol description
 
 The GP-E2 speaks PTP over USB, with Canon-specific operations: 0x91A0–0x91AA towards a PC, 0x91D5–0x91DE towards a camera. This document describes both uses; the camera side was verified with an EOS 700D (firmware 1.1.5), other bodies remain to be tested.
