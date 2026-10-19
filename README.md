@@ -1,6 +1,6 @@
 This is work in progress...
 
-I have a running implementation on a pi zero that pushes "static" GPS coordinates. Works great, can set time, pictures contain proper GPS data.
+I have a running implementation (not ready to be shared) on a pi zero that pushes "static" GPS coordinates. Works great, can set time, pictures contain proper GPS data.
 
 ![Texte alternatif](test_success.jpg)
 
